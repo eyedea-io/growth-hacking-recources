@@ -5,5 +5,6 @@
 [Ethnio](https://ethn.io) - UX Research Recruiting, User Research Recruiting, and Usability Recruiting
 
 
---
-List curated by Eyedea Growth Hackers [@mkucharz](https://github.com/mkucharz) & [@maciejkorsan](https://github.com/maciejkorsan) 
+
+
+-- List curated by Eyedea Growth Hackers [@mkucharz](https://github.com/mkucharz) & [@maciejkorsan](https://github.com/maciejkorsan) 
