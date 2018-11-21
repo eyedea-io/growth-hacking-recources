@@ -1,4 +1,4 @@
-# Growth hacking resources & tools
+# Growth hacking resources & tools list
 
 ## Tools
 ### User interviews
